@@ -1,0 +1,200 @@
+# depslib dependency file v1.0
+1517249286 source:f:\luketop home\storage\programmingzone\c++\citegraph\main.cpp
+	<iostream>
+	<cstdlib>
+	<curl/curl.h>
+	"examples.h"
+
+1516611310 f:\luketop home\coding\libcurl\curl-7.58.0-win32-mingw\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1516777485 f:\luketop home\coding\libcurl\curl-7.58.0-win32-mingw\include\curl\curlver.h
+
+1516611310 f:\luketop home\coding\libcurl\curl-7.58.0-win32-mingw\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1512257600 f:\luketop home\coding\libcurl\curl-7.58.0-win32-mingw\include\curl\easy.h
+
+1512257601 f:\luketop home\coding\libcurl\curl-7.58.0-win32-mingw\include\curl\multi.h
+	"curl.h"
+
+1513153299 f:\luketop home\coding\libcurl\curl-7.58.0-win32-mingw\include\curl\typecheck-gcc.h
+
+1517249170 source:f:\luketop home\storage\programmingzone\c++\citegraph\examples.cpp
+	<iostream>
+	<cstdlib>
+	<curl/curl.h>
+
+1517249452 source:f:\luketop home\storage\programmingzone\c++\citegraph\examples.h
+	<iostream>
+	<cstdlib>
+	<curl/curl.h>
+
+1517249452 f:\luketop home\storage\programmingzone\c++\citegraph\examples.h
+	<iostream>
+	<cstdlib>
+	<curl/curl.h>
+
+1517255604 f:\luketop home\storage\programmingzone\c++\citegraph\include\examples.h
+	<iostream>
+	<cstdlib>
+	<curl/curl.h>
+	"rapidjson/document.h"
+	"rapidjson/writer.h"
+	"rapidjson/stringbuffer.h"
+
+1517249485 source:f:\luketop home\storage\programmingzone\c++\citegraph\source\examples.cpp
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\document.h
+	"reader.h"
+	"internal/meta.h"
+	"internal/strfunc.h"
+	"memorystream.h"
+	"encodedstream.h"
+	<new>
+	<limits>
+	<iterator>
+	<utility>
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\reader.h
+	"allocators.h"
+	"stream.h"
+	"encodedstream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strtod.h"
+	<limits>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<stdexcept>
+	"rapidjson/error/error.h"
+	"rapidjson/reader.h"
+	"error/error.h"
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\allocators.h
+	"rapidjson.h"
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\rapidjson.h
+	<cstdlib>
+	<cstring>
+	"rapidjson/..."
+	<string>
+	"msinttypes/stdint.h"
+	"msinttypes/inttypes.h"
+	<stdint.h>
+	<inttypes.h>
+	<endian.h>
+	"rapidjson/..."
+	<cassert>
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\msinttypes\stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\msinttypes\inttypes.h
+	"stdint.h"
+	<inttypes.h>
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\stream.h
+	"rapidjson.h"
+	"encodings.h"
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\encodings.h
+	"rapidjson.h"
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\encodedstream.h
+	"stream.h"
+	"memorystream.h"
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\memorystream.h
+	"stream.h"
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\internal\meta.h
+	"../rapidjson.h"
+	<type_traits>
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\internal\stack.h
+	"../allocators.h"
+	"swap.h"
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\internal\swap.h
+	"../rapidjson.h"
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\internal\strtod.h
+	"ieee754.h"
+	"biginteger.h"
+	"diyfp.h"
+	"pow10.h"
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\internal\ieee754.h
+	"../rapidjson.h"
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\internal\biginteger.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\internal\diyfp.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\internal\pow10.h
+	"../rapidjson.h"
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\error\error.h
+	"../rapidjson.h"
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\internal\strfunc.h
+	"../stream.h"
+	<cwchar>
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\writer.h
+	"stream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strfunc.h"
+	"internal/dtoa.h"
+	"internal/itoa.h"
+	"stringbuffer.h"
+	<new>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\internal\dtoa.h
+	"itoa.h"
+	"diyfp.h"
+	"ieee754.h"
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\internal\itoa.h
+	"../rapidjson.h"
+
+1516908386 f:\luketop home\coding\json\rapidjson-master\include\rapidjson\stringbuffer.h
+	"stream.h"
+	"internal/stack.h"
+	<utility>
+	"internal/stack.h"
+
